@@ -1,0 +1,9 @@
+.Kale {
+  background-image: url("https://media.giphy.com/media/12ncwou50HWKOc/giphy.gif");
+  height:100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin: 0px;
+  padding-top: 0.5px;
+  background-position: center center;
+}
